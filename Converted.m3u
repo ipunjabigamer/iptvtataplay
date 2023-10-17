@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-<html>
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-<style>
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-font-family: Stylus, sans-serif;
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-p {
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-font-weight: bold;
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-h1 {
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-font-weight: bold;
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-</style>
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-<body>
-#EXTINF:0 tvg-id="ext" group-title="Channels",No name
-</body>
 
 #EXTINF:0 tvg-id="ext" group-title="Lifestyle",Tata Play Beauty
 https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd
